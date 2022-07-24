@@ -1,5 +1,5 @@
 export default function NewGenre () {
   return (
-     <div>New Genres</div>
+     <div>New Genre</div>
   )
 }

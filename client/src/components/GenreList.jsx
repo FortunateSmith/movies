@@ -1,5 +1,5 @@
 export default function  GenreList () {
   return (
-     <div>Genres List</div>
+     <div>Genre List</div>
   )
 }

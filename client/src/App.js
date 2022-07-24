@@ -10,8 +10,9 @@ function App() {
   return (
     <div className="App">
       <div class="add_movie_and_genre">
-        <NewMovie movies={movies} genres={genres} setMovies={setMovies}/>
-        <NewGenre genres={genres} setGenres={setGenres}/>
+        <NewMovie />
+        What's up?
+        <NewGenre />
       </div>
         <MovieList />
         <GenreList />
